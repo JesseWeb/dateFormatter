@@ -1,0 +1,11 @@
+{
+  "name": "dateformatter",
+  "version": "1.0.0",
+  "description": "Typescript date formatter.",
+  "main": "dist/dateFormatter.js",
+  "author": "Hareem Adderley",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
